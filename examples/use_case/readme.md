@@ -14,3 +14,17 @@ I need a 7-day Japan itinerary for April 15-23 from Seattle, with a $2500-5000 b
 ![alt text](picturesapan-travel-plan-1.png)
 
 ![alt text](picturesapan-travel-plan-2.png)
+
+## Web Research Tasks
+
+**Prompt**：
+```
+Research Julian Goldie and information about him
+```
+
+## Building a Calculator
+
+**Prompt**：
+```
+Build a calculator in HTML that can perform basic arithmetic operations like addition, subtraction, multiplication, and division. Then preview it in Chrome
+```
